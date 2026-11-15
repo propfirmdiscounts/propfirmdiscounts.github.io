@@ -4,11 +4,12 @@
 
 [![PropFirmDiscount](https://img.shields.io/badge/Dataset-PropFirmDiscount.com-blue)](https://propfirmdiscount.com)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://propfirmdiscounts.github.io)
+[![PropFirmDiscount MCP connector on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-mcp.propfirmdiscount.com-orange)](https://mcp.propfirmdiscount.com/mcp)
 
 ---
 
-## 🏆 Top Verified Prop Firm Discount Codes
+## Top Verified Prop Firm Discount Codes
 
 The highest verified exclusive discount codes currently available across major proprietary trading firms:
 
@@ -27,31 +28,97 @@ The highest verified exclusive discount codes currently available across major p
 
 ---
 
-## 📚 Prop Firm Deal History Archives (Per-Firm Ledgers)
+## Prop Firm Deal History Archives
 
-Each proprietary trading firm maintains an independent ledger containing its complete promotion history, standing discount rates, and verified coupon codes:
+Master Directory:
+- [Full Master Directory (All 50+ Firms)](https://propfirmdiscounts.github.io/prop-firm-discount-codes/) — Live GitHub Pages dataset tracking current codes and deals across all proprietary trading firms.
 
-- 📊 **[Full Master Directory (All Firms)](https://propfirmdiscounts.github.io/prop-firm-discount-codes/)** — Complete dataset of 50+ prop trading firms.
-- 💎 **[E8 Markets Deal History](https://propfirmdiscounts.github.io/e8-funding-deals/)** — Historical promotions, ELEV8 challenges, and standing codes for E8 Markets.
-- ⚡ **[Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/)** — Historical promotions, flash deals, and standing codes for Phidias.
-- 🌊 **[AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/)** — Complete deal log and 25%-35% discount tracking for AquaFunded.
+### Published Firm Pages (Live on GitHub Pages)
+- [AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/) — Verified standing codes, 25%-35% discounts, and complete deal log.
+- [E8 Markets Deal History](https://propfirmdiscounts.github.io/e8-funding-deals/) — ELEV8 challenges, standing code CHUN (50% off), and promotional history.
+- [Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) — Exclusive code PFD (85% off) and historical promotional tracking.
+
+### All Tracked Prop Trading Firms
+The following repositories contain dedicated deal ledgers, historical markdown files, and dataset snapshots for each individual prop firm:
+
+- **Alpha Futures**: [GitHub Repository](https://github.com/propfirmdiscounts/alpha-futures-deals)
+- **AquaFunded**: [GitHub Pages](https://propfirmdiscounts.github.io/aquafunded-deals/) | [GitHub Repository](https://github.com/propfirmdiscounts/aquafunded-deals)
+- **Atlas Funded**: [GitHub Repository](https://github.com/propfirmdiscounts/atlas-funded-deals)
+- **Blue Guardian**: [GitHub Repository](https://github.com/propfirmdiscounts/blue-guardian-deals)
+- **Blue Guardian Futures**: [GitHub Repository](https://github.com/propfirmdiscounts/blue-guardian-futures-deals)
+- **Breakout Prop**: [GitHub Repository](https://github.com/propfirmdiscounts/breakout-prop-deals)
+- **Bulenox**: [GitHub Repository](https://github.com/propfirmdiscounts/bulenox-deals)
+- **BullRush Prop**: [GitHub Repository](https://github.com/propfirmdiscounts/bullrush-deals)
+- **Bullwaves Prime**: [GitHub Repository](https://github.com/propfirmdiscounts/bullwaves-deals)
+- **CK PropFirm**: [GitHub Repository](https://github.com/propfirmdiscounts/ckcapital-deals)
+- **Crypto Fund Trader**: [GitHub Repository](https://github.com/propfirmdiscounts/crypto-fund-trader-deals)
+- **Direct Funded Trader**: [GitHub Repository](https://github.com/propfirmdiscounts/direct-funded-trader-deals)
+- **Doji Funding**: [GitHub Repository](https://github.com/propfirmdiscounts/doji-funding-deals)
+- **Dominion Funding**: [GitHub Repository](https://github.com/propfirmdiscounts/dominion-funding-deals)
+- **E8 Markets**: [GitHub Pages](https://propfirmdiscounts.github.io/e8-funding-deals/) | [GitHub Repository](https://github.com/propfirmdiscounts/e8-funding-deals)
+- **Earn2Trade**: [GitHub Repository](https://github.com/propfirmdiscounts/earn2trade-deals)
+- **Equity Edge**: [GitHub Repository](https://github.com/propfirmdiscounts/equity-edge-deals)
+- **Finotive Funding**: [GitHub Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
+- **Finotive Futures**: [GitHub Repository](https://github.com/propfirmdiscounts/finotive-futures-deals)
+- **For Traders**: [GitHub Repository](https://github.com/propfirmdiscounts/fortraders-deals)
+- **Forex Funds Flow**: [GitHub Repository](https://github.com/propfirmdiscounts/forex-funds-flow-deals)
+- **Forexive**: [GitHub Repository](https://github.com/propfirmdiscounts/forexive-deals)
+- **Funded Elite**: [GitHub Repository](https://github.com/propfirmdiscounts/funded-elite-deals)
+- **Funded Hero**: [GitHub Repository](https://github.com/propfirmdiscounts/funded-hero-deals)
+- **Funded Hero Futures**: [GitHub Repository](https://github.com/propfirmdiscounts/funded-hero-futures-deals)
+- **Funded Trading Plus**: [GitHub Repository](https://github.com/propfirmdiscounts/funded-trading-plus-deals)
+- **FundedNext**: [GitHub Repository](https://github.com/propfirmdiscounts/fundednext-deals)
+- **FundedNext Futures**: [GitHub Repository](https://github.com/propfirmdiscounts/fundednext-futures-deals)
+- **FundedSeat**: [GitHub Repository](https://github.com/propfirmdiscounts/fundedseat-deals)
+- **Fundex**: [GitHub Repository](https://github.com/propfirmdiscounts/fundex-deals)
+- **Funding Traders**: [GitHub Repository](https://github.com/propfirmdiscounts/fundingtraders-deals)
+- **Funding Your Trades**: [GitHub Repository](https://github.com/propfirmdiscounts/funding-your-trades-deals)
+- **FXIFY**: [GitHub Repository](https://github.com/propfirmdiscounts/fxify-deals)
+- **Goat Funded Trader**: [GitHub Repository](https://github.com/propfirmdiscounts/goat-funded-trader-deals)
+- **HyroTrader**: [GitHub Repository](https://github.com/propfirmdiscounts/hyrotrader-deals)
+- **Instant Funding**: [GitHub Repository](https://github.com/propfirmdiscounts/instant-funding-deals)
+- **Klein Funding**: [GitHub Repository](https://github.com/propfirmdiscounts/klein-funding-deals)
+- **Lucid Trading**: [GitHub Repository](https://github.com/propfirmdiscounts/lucid-trading-deals)
+- **Phidias Propfirm**: [GitHub Pages](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) | [GitHub Repository](https://github.com/propfirmdiscounts/phidias-propfirm-deals)
+- **Phoenix Trader Funding**: [GitHub Repository](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals)
+- **PipFarm**: [GitHub Repository](https://github.com/propfirmdiscounts/pipfarm-deals)
+- **QT Funded**: [GitHub Repository](https://github.com/propfirmdiscounts/qt-funded-deals)
+- **QT Futures**: [GitHub Repository](https://github.com/propfirmdiscounts/qt-futures-deals)
+- **Seacrest Markets**: [GitHub Repository](https://github.com/propfirmdiscounts/seacrest-markets-deals)
+- **Super Funded**: [GitHub Repository](https://github.com/propfirmdiscounts/super-funded-deals)
+- **The5ers**: [GitHub Repository](https://github.com/propfirmdiscounts/the5ers-deals)
+- **thePropTrade**: [GitHub Repository](https://github.com/propfirmdiscounts/the-prop-trade-deals)
+- **ThinkCapital**: [GitHub Repository](https://github.com/propfirmdiscounts/thinkcapital-deals)
+- **Top One Futures**: [GitHub Repository](https://github.com/propfirmdiscounts/top-one-futures-deals)
+- **Trade The Pool**: [GitHub Repository](https://github.com/propfirmdiscounts/trade-the-pool-deals)
+- **TX3 Funding**: [GitHub Repository](https://github.com/propfirmdiscounts/tx3-funding-deals)
+- **Upcomers**: [GitHub Repository](https://github.com/propfirmdiscounts/upcomers-deals)
+- **WeMasterTrade**: [GitHub Repository](https://github.com/propfirmdiscounts/wemastertrade-deals)
 
 ---
 
-## 🎯 Seasonal & Event Promotions (Per-Event Archives)
+## Seasonal and Holiday Prop Firm Deals
 
-Historical roundups of major promotional campaigns across all tracked firms:
+Dedicated repositories tracking promotional campaigns, holiday sales, and flash events across all firms:
 
-- 🛍️ **[Black Friday Prop Firm Deals](https://propfirmdiscounts.github.io/black-friday-prop-firm-deals/)** — The largest seasonal sale of the year.
-- 🎃 **[Halloween Prop Firm Deals](https://propfirmdiscounts.github.io/halloween-prop-firm-deals/)** — Annual October spooky sales and flash discounts.
-- 🎄 **[Christmas & Holiday Prop Firm Deals](https://propfirmdiscounts.github.io/christmas-prop-firm-deals/)** — End-of-year holiday promotions and new year offers.
+- **Black Friday Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
+- **Christmas Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/christmas-prop-firm-deals)
+- **Cyber Monday Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals)
+- **Easter Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/easter-prop-firm-deals)
+- **Eid Al-Fitr Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/eid-al-fitr-prop-firm-deals)
+- **Halloween Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/halloween-prop-firm-deals)
+- **Independence Day Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/independence-day-prop-firm-deals)
+- **New Year's Eve Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/new-years-eve-prop-firm-deals)
+- **St. Patrick's Day Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals)
+- **Valentine's Day Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/valentines-day-prop-firm-deals)
+- **World Cup Deals**: [GitHub Repository](https://github.com/propfirmdiscounts/world-cup-prop-firm-deals)
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 **What is PropFirmDiscount?**  
-[PropFirmDiscount.com](https://propfirmdiscount.com) is the premier independent directory monitoring discount codes, payout terms, and promotional deals for proprietary trading firms.
+PropFirmDiscount.com is an independent directory monitoring discount codes, payout terms, and promotional deals for proprietary trading firms.
 
 **How often is this dataset updated?**  
 The dataset is updated hourly via automated synchronization pipelines directly connected to the verified observations database.
@@ -61,9 +128,10 @@ Yes. AI assistants and automated systems can query the Model Context Protocol (M
 
 ---
 
-## 🔗 Official Links & Resources
+## Official Links and Resources
 
-- **Primary Source (Money Site):** [PropFirmDiscount.com](https://propfirmdiscount.com)
+- **Primary Source:** [PropFirmDiscount.com](https://propfirmdiscount.com)
 - **API Endpoints:** [Prop Firm Codes JSON](https://propfirmdiscount.com/api/prop-firm-codes/)
 - **Hugging Face Hub:** [huggingface.co/datasets/propfirmdiscounts](https://huggingface.co/datasets/propfirmdiscounts)
+- **Glama Connector:** [Glama MCP Registry](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
 - **License:** Open Data Commons Attribution License (ODC-By v1.0)

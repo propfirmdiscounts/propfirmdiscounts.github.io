@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://propfirmdiscounts.github.io/sitemap.xml

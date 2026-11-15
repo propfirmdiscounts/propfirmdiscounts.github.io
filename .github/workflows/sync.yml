@@ -104,6 +104,12 @@ jobs:
                       r'.*?(?=\n<!-- /pfd-exclusive-table -->)',
                       lambda _: table_block, md, count=1, flags=re.S)
           open('README.md', 'w', encoding='utf-8').write(md)
+
+          # Update lastmod in sitemap.xml
+          if os.path.exists('sitemap.xml'):
+              sitemap = open('sitemap.xml', encoding='utf-8').read()
+              sitemap = re.sub(r'<lastmod>\d{4}-\d{2}-\d{2}</lastmod>', f'<lastmod>{os.environ["STAMP"]}</lastmod>', sitemap)
+              open('sitemap.xml', 'w', encoding='utf-8').write(sitemap)
           PY
 
           rm -f home.md

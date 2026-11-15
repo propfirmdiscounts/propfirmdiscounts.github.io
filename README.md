@@ -41,59 +41,59 @@ Master Directory:
 ### Published Firm Pages
 The following individual firm deal history pages are published (or scheduled for upcoming publication):
 
-- [Alpha Futures Deal History](https://propfirmdiscounts.github.io/alpha-futures-deals/)
-- [AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/) (Live)
-- [Atlas Funded Deal History](https://propfirmdiscounts.github.io/atlas-funded-deals/)
-- [Blue Guardian Deal History](https://propfirmdiscounts.github.io/blue-guardian-deals/)
-- [Blue Guardian Futures Deal History](https://propfirmdiscounts.github.io/blue-guardian-futures-deals/)
-- [Breakout Prop Deal History](https://propfirmdiscounts.github.io/breakout-prop-deals/)
-- [Bulenox Deal History](https://propfirmdiscounts.github.io/bulenox-deals/)
-- [BullRush Prop Deal History](https://propfirmdiscounts.github.io/bullrush-deals/)
-- [Bullwaves Prime Deal History](https://propfirmdiscounts.github.io/bullwaves-deals/)
-- [CK PropFirm Deal History](https://propfirmdiscounts.github.io/ckcapital-deals/)
-- [Crypto Fund Trader Deal History](https://propfirmdiscounts.github.io/crypto-fund-trader-deals/)
-- [Direct Funded Trader Deal History](https://propfirmdiscounts.github.io/direct-funded-trader-deals/)
-- [Doji Funding Deal History](https://propfirmdiscounts.github.io/doji-funding-deals/)
-- [Dominion Funding Deal History](https://propfirmdiscounts.github.io/dominion-funding-deals/)
-- [E8 Markets Deal History](https://propfirmdiscounts.github.io/e8-funding-deals/) (Live)
-- [Earn2Trade Deal History](https://propfirmdiscounts.github.io/earn2trade-deals/)
-- [Equity Edge Deal History](https://propfirmdiscounts.github.io/equity-edge-deals/)
-- [Finotive Funding Deal History](https://propfirmdiscounts.github.io/finotive-funding-deals/)
-- [Finotive Futures Deal History](https://propfirmdiscounts.github.io/finotive-futures-deals/)
-- [For Traders Deal History](https://propfirmdiscounts.github.io/fortraders-deals/)
-- [Forex Funds Flow Deal History](https://propfirmdiscounts.github.io/forex-funds-flow-deals/)
-- [Forexive Deal History](https://propfirmdiscounts.github.io/forexive-deals/)
-- [Funded Elite Deal History](https://propfirmdiscounts.github.io/funded-elite-deals/)
-- [Funded Hero Deal History](https://propfirmdiscounts.github.io/funded-hero-deals/)
-- [Funded Hero Futures Deal History](https://propfirmdiscounts.github.io/funded-hero-futures-deals/)
-- [Funded Trading Plus Deal History](https://propfirmdiscounts.github.io/funded-trading-plus-deals/)
-- [FundedNext Deal History](https://propfirmdiscounts.github.io/fundednext-deals/)
-- [FundedNext Futures Deal History](https://propfirmdiscounts.github.io/fundednext-futures-deals/)
-- [FundedSeat Deal History](https://propfirmdiscounts.github.io/fundedseat-deals/)
-- [Fundex Deal History](https://propfirmdiscounts.github.io/fundex-deals/)
-- [Funding Traders Deal History](https://propfirmdiscounts.github.io/fundingtraders-deals/)
-- [Funding Your Trades Deal History](https://propfirmdiscounts.github.io/funding-your-trades-deals/)
-- [FXIFY Deal History](https://propfirmdiscounts.github.io/fxify-deals/)
-- [Goat Funded Trader Deal History](https://propfirmdiscounts.github.io/goat-funded-trader-deals/)
-- [HyroTrader Deal History](https://propfirmdiscounts.github.io/hyrotrader-deals/)
-- [Instant Funding Deal History](https://propfirmdiscounts.github.io/instant-funding-deals/)
-- [Klein Funding Deal History](https://propfirmdiscounts.github.io/klein-funding-deals/)
-- [Lucid Trading Deal History](https://propfirmdiscounts.github.io/lucid-trading-deals/)
-- [Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) (Live)
-- [Phoenix Trader Funding Deal History](https://propfirmdiscounts.github.io/phoenix-trader-funding-deals/)
-- [PipFarm Deal History](https://propfirmdiscounts.github.io/pipfarm-deals/)
-- [QT Funded Deal History](https://propfirmdiscounts.github.io/qt-funded-deals/)
-- [QT Futures Deal History](https://propfirmdiscounts.github.io/qt-futures-deals/)
-- [Seacrest Markets Deal History](https://propfirmdiscounts.github.io/seacrest-markets-deals/)
-- [Super Funded Deal History](https://propfirmdiscounts.github.io/super-funded-deals/)
-- [The5ers Deal History](https://propfirmdiscounts.github.io/the5ers-deals/)
-- [thePropTrade Deal History](https://propfirmdiscounts.github.io/the-prop-trade-deals/)
-- [ThinkCapital Deal History](https://propfirmdiscounts.github.io/thinkcapital-deals/)
-- [Top One Futures Deal History](https://propfirmdiscounts.github.io/top-one-futures-deals/)
-- [Trade The Pool Deal History](https://propfirmdiscounts.github.io/trade-the-pool-deals/)
-- [TX3 Funding Deal History](https://propfirmdiscounts.github.io/tx3-funding-deals/)
-- [Upcomers Deal History](https://propfirmdiscounts.github.io/upcomers-deals/)
-- [WeMasterTrade Deal History](https://propfirmdiscounts.github.io/wemastertrade-deals/)
+- [Alpha Futures Deal History](https://propfirmdiscounts.github.io/alpha-futures-deals/) — Code Tran009503 (15% off).
+- [AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/) (Live) — Code PFD (25% off).
+- [Atlas Funded Deal History](https://propfirmdiscounts.github.io/atlas-funded-deals/) — Code PFD (50% off).
+- [Blue Guardian Deal History](https://propfirmdiscounts.github.io/blue-guardian-deals/) — Code PFD (25% off).
+- [Blue Guardian Futures Deal History](https://propfirmdiscounts.github.io/blue-guardian-futures-deals/) — Code PFD (35% off).
+- [Breakout Prop Deal History](https://propfirmdiscounts.github.io/breakout-prop-deals/) — Code 3GVKFT (5% off).
+- [Bulenox Deal History](https://propfirmdiscounts.github.io/bulenox-deals/) — Code PFD (91% off).
+- [BullRush Prop Deal History](https://propfirmdiscounts.github.io/bullrush-deals/) — Code 7XTG8N (5% off).
+- [Bullwaves Prime Deal History](https://propfirmdiscounts.github.io/bullwaves-deals/) — Code PFD (10% off).
+- [CK PropFirm Deal History](https://propfirmdiscounts.github.io/ckcapital-deals/) — Code PFD (10% off).
+- [Crypto Fund Trader Deal History](https://propfirmdiscounts.github.io/crypto-fund-trader-deals/) — Code platinum5 (5% off).
+- [Direct Funded Trader Deal History](https://propfirmdiscounts.github.io/direct-funded-trader-deals/) — Code PFD (40% off).
+- [Doji Funding Deal History](https://propfirmdiscounts.github.io/doji-funding-deals/) — Code PFD (60% off).
+- [Dominion Funding Deal History](https://propfirmdiscounts.github.io/dominion-funding-deals/) — Code PFD5PC (5% off).
+- [E8 Markets Deal History](https://propfirmdiscounts.github.io/e8-funding-deals/) (Live) — Code CHUN (50% off).
+- [Earn2Trade Deal History](https://propfirmdiscounts.github.io/earn2trade-deals/) — Code PFD (50% off).
+- [Equity Edge Deal History](https://propfirmdiscounts.github.io/equity-edge-deals/) — Code PFD (20% off).
+- [Finotive Funding Deal History](https://propfirmdiscounts.github.io/finotive-funding-deals/) — Code JACKICHUN (25% off).
+- [Finotive Futures Deal History](https://propfirmdiscounts.github.io/finotive-futures-deals/) — Code PFDDEAL (25% off).
+- [For Traders Deal History](https://propfirmdiscounts.github.io/fortraders-deals/) — Code VGYCKXLTY9 (15% off).
+- [Forex Funds Flow Deal History](https://propfirmdiscounts.github.io/forex-funds-flow-deals/) — Code PFD (10% off).
+- [Forexive Deal History](https://propfirmdiscounts.github.io/forexive-deals/) — Code WHCTXQHRIG (10% off).
+- [Funded Elite Deal History](https://propfirmdiscounts.github.io/funded-elite-deals/) — Code AFF1864062 (10% off).
+- [Funded Hero Deal History](https://propfirmdiscounts.github.io/funded-hero-deals/) — Code PFD (70% off).
+- [Funded Hero Futures Deal History](https://propfirmdiscounts.github.io/funded-hero-futures-deals/) — Code PFD (65% off).
+- [Funded Trading Plus Deal History](https://propfirmdiscounts.github.io/funded-trading-plus-deals/) — Code PFD (10% off).
+- [FundedNext Deal History](https://propfirmdiscounts.github.io/fundednext-deals/) — Code PFDC (20% off).
+- [FundedNext Futures Deal History](https://propfirmdiscounts.github.io/fundednext-futures-deals/) — Code PFDC (20% off).
+- [FundedSeat Deal History](https://propfirmdiscounts.github.io/fundedseat-deals/) — Code PFD (50% off).
+- [Fundex Deal History](https://propfirmdiscounts.github.io/fundex-deals/) — Code PFD (5% off).
+- [Funding Traders Deal History](https://propfirmdiscounts.github.io/fundingtraders-deals/) — Code PFD (70% off).
+- [Funding Your Trades Deal History](https://propfirmdiscounts.github.io/funding-your-trades-deals/) — Code PFD (2% off).
+- [FXIFY Deal History](https://propfirmdiscounts.github.io/fxify-deals/) — Code FXIFY2WRIVW (10% off).
+- [Goat Funded Trader Deal History](https://propfirmdiscounts.github.io/goat-funded-trader-deals/) — Code CSV (35% off).
+- [HyroTrader Deal History](https://propfirmdiscounts.github.io/hyrotrader-deals/) — Code PFD (5% off).
+- [Instant Funding Deal History](https://propfirmdiscounts.github.io/instant-funding-deals/) — Code AFFVOYAGE61 (10% off).
+- [Klein Funding Deal History](https://propfirmdiscounts.github.io/klein-funding-deals/) — Code PFD (30% off).
+- [Lucid Trading Deal History](https://propfirmdiscounts.github.io/lucid-trading-deals/) — Code PFD (30% off).
+- [Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) (Live) — Code PFD (90% off).
+- [Phoenix Trader Funding Deal History](https://propfirmdiscounts.github.io/phoenix-trader-funding-deals/) — Code PFD (20% off).
+- [PipFarm Deal History](https://propfirmdiscounts.github.io/pipfarm-deals/) — Code PFDC (30% off).
+- [QT Funded Deal History](https://propfirmdiscounts.github.io/qt-funded-deals/) — Code PFD (50% off).
+- [QT Futures Deal History](https://propfirmdiscounts.github.io/qt-futures-deals/) — Code PFD (50% off).
+- [Seacrest Markets Deal History](https://propfirmdiscounts.github.io/seacrest-markets-deals/) — Code jackichun (5% off).
+- [Super Funded Deal History](https://propfirmdiscounts.github.io/super-funded-deals/) — Code CHUN (30% off).
+- [The5ers Deal History](https://propfirmdiscounts.github.io/the5ers-deals/) — Code NKY03MTJGM (5% off).
+- [thePropTrade Deal History](https://propfirmdiscounts.github.io/the-prop-trade-deals/) — Code PFD (20% off).
+- [ThinkCapital Deal History](https://propfirmdiscounts.github.io/thinkcapital-deals/) — Code PFD (10% off).
+- [Top One Futures Deal History](https://propfirmdiscounts.github.io/top-one-futures-deals/) — Code PFD (60% off).
+- [Trade The Pool Deal History](https://propfirmdiscounts.github.io/trade-the-pool-deals/) — Code WWS4GW (10% off).
+- [TX3 Funding Deal History](https://propfirmdiscounts.github.io/tx3-funding-deals/) — Code PFDC (25% off).
+- [Upcomers Deal History](https://propfirmdiscounts.github.io/upcomers-deals/) — Code PFD (90% off).
+- [WeMasterTrade Deal History](https://propfirmdiscounts.github.io/wemastertrade-deals/) — Code PFD (20% off).
 
 ### All Tracked Prop Trading Firms
 The following repositories contain dedicated deal ledgers, historical markdown files, and dataset snapshots for each individual prop firm:

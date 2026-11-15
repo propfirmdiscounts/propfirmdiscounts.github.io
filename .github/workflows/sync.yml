@@ -85,31 +85,25 @@ jobs:
                           lambda _: line, md, count=1)
               open('README.md', 'w', encoding='utf-8').write(md)
 
-          # Update the 2 split tables if rows >= 10
-          if len(rows) >= 10:
-              def make_table(subset):
-                  header = '| # | Prop Firm | Exclusive Code | Discount | Offer Ends | Live Firm Page |\n|---|---|---|---|---|---|\n'
-                  body = []
-                  for r in subset:
-                      num = r[1]
-                      firm = r[2]
-                      code = r[3]
-                      disc = r[4]
-                      ends = r[5]
-                      link = r[6]
-                      body.append(f'| {num} | {firm} | {code} | {disc} | {ends} | [{firm} Deals]({link}) |')
-                  return header + '\n'.join(body) + '\n'
+          # Update the single top 10 table
+          top10 = rows[:10]
+          header = '| # | Prop Firm | Exclusive Code | Discount | Offer Ends | Live Firm Page |\n|---|---|---|---|---|---|\n'
+          body = []
+          for r in top10:
+              num = r[1]
+              firm = r[2]
+              code = r[3]
+              disc = r[4]
+              ends = r[5]
+              link = r[6]
+              body.append(f'| {num} | {firm} | {code} | {disc} | {ends} | [{firm} Deals]({link}) |')
+          table_block = header + '\n'.join(body) + '\n'
 
-              t1 = make_table(rows[:5])
-              t2 = make_table(rows[5:10])
-
-              tables_block = f"""### Top Exclusive Codes (Tier 1: 50% – 85% OFF)\n\n{t1}\n### Top Exclusive Codes (Tier 2: 10% – 35% OFF)\n\n{t2}"""
-
-              md = open('README.md', encoding='utf-8').read()
-              md = re.sub(r'(?<=<!-- pfd-exclusive-tables \(auto-updated each sync\) -->\n)'
-                          r'.*?(?=\n<!-- /pfd-exclusive-tables -->)',
-                          lambda _: tables_block, md, count=1, flags=re.S)
-              open('README.md', 'w', encoding='utf-8').write(md)
+          md = open('README.md', encoding='utf-8').read()
+          md = re.sub(r'(?<=<!-- pfd-exclusive-table \(auto-updated each sync\) -->\n)'
+                      r'.*?(?=\n<!-- /pfd-exclusive-table -->)',
+                      lambda _: table_block, md, count=1, flags=re.S)
+          open('README.md', 'w', encoding='utf-8').write(md)
           PY
 
           rm -f home.md

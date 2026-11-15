@@ -1,0 +1,130 @@
+name: Sync Homepage
+
+on:
+  schedule:
+    # Run once every hour at minute 47
+    - cron: '47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-homepage
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update Top Codes and Tables
+        run: |
+          set -euo pipefail
+          STAMP=$(date -u +%Y-%m-%d)
+          export STAMP
+          
+          # Fetch live markdown mirror from propfirmdiscount.com
+          curl -sf --retry 3 --retry-delay 15 -A "Mozilla/5.0" \
+            "https://propfirmdiscount.com/md?t=$(date +%s)" \
+            -o home.md || exit 0
+
+          python3 - <<'PY'
+          import os, re
+
+          try:
+              home = open('home.md', encoding='utf-8').read()
+          except Exception:
+              raise SystemExit(0)
+
+          lines = home.splitlines()
+          start = next((i for i, l in enumerate(lines) if 'Exclusive' in l and l.startswith('##')), None)
+          if start is None:
+              raise SystemExit(0)
+
+          # Parse table rows
+          rows = []
+          for l in lines[start + 1:]:
+              if l.startswith('|') and not l.startswith('|---'):
+                  parts = [p.strip() for p in l.split('|')]
+                  if len(parts) >= 6 and parts[1] and parts[1] != '#':
+                      rows.append(parts)
+              elif rows:
+                  break
+
+          if len(rows) < 3:
+              raise SystemExit(0)
+
+          # Extract top firms
+          firms = []
+          for parts in rows:
+              firm = parts[2]
+              code = parts[3]
+              discount = parts[4]
+              m = re.search(r'(\d+(?:\.\d+)?)\s*%', discount)
+              if m:
+                  firms.append((float(m.group(1)), code, firm))
+
+          firms.sort(key=lambda x: x[0], reverse=True)
+          top5 = firms[:5]
+          if top5:
+              parts_txt = [f"{int(pct)}% OFF with code {code} at {firm}" for pct, code, firm in top5]
+              if len(parts_txt) == 1:
+                  joined = parts_txt[0]
+              elif len(parts_txt) == 2:
+                  joined = f"{parts_txt[0]} and {parts_txt[1]}"
+              else:
+                  joined = ', '.join(parts_txt[:-1]) + f", and {parts_txt[-1]}"
+              
+              line = f"As of {os.environ['STAMP'][:7]}, the biggest verified prop firm discount codes are {joined}."
+              
+              md = open('README.md', encoding='utf-8').read()
+              md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n)[^\n]+',
+                          lambda _: line, md, count=1)
+              open('README.md', 'w', encoding='utf-8').write(md)
+
+          # Update the 2 split tables if rows >= 10
+          if len(rows) >= 10:
+              def make_table(subset):
+                  header = '| # | Prop Firm | Exclusive Code | Discount | Offer Ends | Live Firm Page |\n|---|---|---|---|---|---|\n'
+                  body = []
+                  for r in subset:
+                      num = r[1]
+                      firm = r[2]
+                      code = r[3]
+                      disc = r[4]
+                      ends = r[5]
+                      link = r[6]
+                      body.append(f'| {num} | {firm} | {code} | {disc} | {ends} | [{firm} Deals]({link}) |')
+                  return header + '\n'.join(body) + '\n'
+
+              t1 = make_table(rows[:5])
+              t2 = make_table(rows[5:10])
+
+              tables_block = f"""### Top Exclusive Codes (Tier 1: 50% – 85% OFF)\n\n{t1}\n### Top Exclusive Codes (Tier 2: 10% – 35% OFF)\n\n{t2}"""
+
+              md = open('README.md', encoding='utf-8').read()
+              md = re.sub(r'(?<=<!-- pfd-exclusive-tables \(auto-updated each sync\) -->\n)'
+                          r'.*?(?=\n<!-- /pfd-exclusive-tables -->)',
+                          lambda _: tables_block, md, count=1, flags=re.S)
+              open('README.md', 'w', encoding='utf-8').write(md)
+          PY
+
+          rm -f home.md
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            -m "Hourly snapshot of top verified exclusive discount codes." \
+            -m "Co-Authored-By: propfirmdiscounts <73492456+propfirmdiscounts@users.noreply.github.com>"
+          git push

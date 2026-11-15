@@ -62,9 +62,9 @@ Dedicated repositories tracking promotional campaigns, holiday sales, and flash 
 
 | Event Deals | Event Deals | Event Deals | Event Deals |
 |---|---|---|---|
-| [Black Friday Deals](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals) | [Easter Deals](https://github.com/propfirmdiscounts/easter-prop-firm-deals) | [Independence Day Deals](https://github.com/propfirmdiscounts/independence-day-prop-firm-deals) | [Valentine's Day Deals](https://github.com/propfirmdiscounts/valentines-day-prop-firm-deals) |
-| [Christmas Deals](https://github.com/propfirmdiscounts/christmas-prop-firm-deals) | [Eid Al-Fitr Deals](https://github.com/propfirmdiscounts/eid-al-fitr-prop-firm-deals) | [New Year's Eve Deals](https://github.com/propfirmdiscounts/new-years-eve-prop-firm-deals) | [World Cup Deals](https://github.com/propfirmdiscounts/world-cup-prop-firm-deals) |
-| [Cyber Monday Deals](https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals) | [Halloween Deals](https://github.com/propfirmdiscounts/halloween-prop-firm-deals) | [St. Patrick's Day Deals](https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals) |  |
+| [Black Friday Deals](https://propfirmdiscounts.github.io/black-friday-prop-firm-deals/) | [Easter Deals](https://propfirmdiscounts.github.io/easter-prop-firm-deals/) | [Independence Day Deals](https://propfirmdiscounts.github.io/independence-day-prop-firm-deals/) | [Valentine's Day Deals](https://propfirmdiscounts.github.io/valentines-day-prop-firm-deals/) |
+| [Christmas Deals](https://propfirmdiscounts.github.io/christmas-prop-firm-deals/) | [Eid Al-Fitr Deals](https://propfirmdiscounts.github.io/eid-al-fitr-prop-firm-deals/) | [New Year's Eve Deals](https://propfirmdiscounts.github.io/new-years-eve-prop-firm-deals/) | [World Cup Deals](https://propfirmdiscounts.github.io/world-cup-prop-firm-deals/) |
+| [Cyber Monday Deals](https://propfirmdiscounts.github.io/cyber-monday-prop-firm-deals/) | [Halloween Deals](https://propfirmdiscounts.github.io/halloween-prop-firm-deals/) | [St. Patrick's Day Deals](https://propfirmdiscounts.github.io/st-patricks-day-prop-firm-deals/) |  |
 
 ---
 

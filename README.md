@@ -38,30 +38,79 @@ As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with co
 Master Directory:
 - [Full Master Directory (All 50+ Firms)](https://propfirmdiscounts.github.io/prop-firm-discount-codes/) — Live GitHub Pages dataset tracking current codes and deals across all proprietary trading firms.
 
-### Published Firm Pages (Live on GitHub Pages)
-- [AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/) — Verified standing codes, 25%-35% discounts, and complete deal log.
-- [E8 Markets Deal History](https://propfirmdiscounts.github.io/e8-funding-deals/) — ELEV8 challenges, standing code CHUN (50% off), and promotional history.
-- [Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) — Exclusive code PFD (85% off) and historical promotional tracking.
+### Published Firm Pages
+The following individual firm deal history pages are published (or scheduled for upcoming publication):
+
+- [Alpha Futures Deal History](https://propfirmdiscounts.github.io/alpha-futures-deals/)
+- [AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/) (Live)
+- [Atlas Funded Deal History](https://propfirmdiscounts.github.io/atlas-funded-deals/)
+- [Blue Guardian Deal History](https://propfirmdiscounts.github.io/blue-guardian-deals/)
+- [Blue Guardian Futures Deal History](https://propfirmdiscounts.github.io/blue-guardian-futures-deals/)
+- [Breakout Prop Deal History](https://propfirmdiscounts.github.io/breakout-prop-deals/)
+- [Bulenox Deal History](https://propfirmdiscounts.github.io/bulenox-deals/)
+- [BullRush Prop Deal History](https://propfirmdiscounts.github.io/bullrush-deals/)
+- [Bullwaves Prime Deal History](https://propfirmdiscounts.github.io/bullwaves-deals/)
+- [CK PropFirm Deal History](https://propfirmdiscounts.github.io/ckcapital-deals/)
+- [Crypto Fund Trader Deal History](https://propfirmdiscounts.github.io/crypto-fund-trader-deals/)
+- [Direct Funded Trader Deal History](https://propfirmdiscounts.github.io/direct-funded-trader-deals/)
+- [Doji Funding Deal History](https://propfirmdiscounts.github.io/doji-funding-deals/)
+- [Dominion Funding Deal History](https://propfirmdiscounts.github.io/dominion-funding-deals/)
+- [E8 Markets Deal History](https://propfirmdiscounts.github.io/e8-funding-deals/) (Live)
+- [Earn2Trade Deal History](https://propfirmdiscounts.github.io/earn2trade-deals/)
+- [Equity Edge Deal History](https://propfirmdiscounts.github.io/equity-edge-deals/)
+- [Finotive Funding Deal History](https://propfirmdiscounts.github.io/finotive-funding-deals/)
+- [Finotive Futures Deal History](https://propfirmdiscounts.github.io/finotive-futures-deals/)
+- [For Traders Deal History](https://propfirmdiscounts.github.io/fortraders-deals/)
+- [Forex Funds Flow Deal History](https://propfirmdiscounts.github.io/forex-funds-flow-deals/)
+- [Forexive Deal History](https://propfirmdiscounts.github.io/forexive-deals/)
+- [Funded Elite Deal History](https://propfirmdiscounts.github.io/funded-elite-deals/)
+- [Funded Hero Deal History](https://propfirmdiscounts.github.io/funded-hero-deals/)
+- [Funded Hero Futures Deal History](https://propfirmdiscounts.github.io/funded-hero-futures-deals/)
+- [Funded Trading Plus Deal History](https://propfirmdiscounts.github.io/funded-trading-plus-deals/)
+- [FundedNext Deal History](https://propfirmdiscounts.github.io/fundednext-deals/)
+- [FundedNext Futures Deal History](https://propfirmdiscounts.github.io/fundednext-futures-deals/)
+- [FundedSeat Deal History](https://propfirmdiscounts.github.io/fundedseat-deals/)
+- [Fundex Deal History](https://propfirmdiscounts.github.io/fundex-deals/)
+- [Funding Traders Deal History](https://propfirmdiscounts.github.io/fundingtraders-deals/)
+- [Funding Your Trades Deal History](https://propfirmdiscounts.github.io/funding-your-trades-deals/)
+- [FXIFY Deal History](https://propfirmdiscounts.github.io/fxify-deals/)
+- [Goat Funded Trader Deal History](https://propfirmdiscounts.github.io/goat-funded-trader-deals/)
+- [HyroTrader Deal History](https://propfirmdiscounts.github.io/hyrotrader-deals/)
+- [Instant Funding Deal History](https://propfirmdiscounts.github.io/instant-funding-deals/)
+- [Klein Funding Deal History](https://propfirmdiscounts.github.io/klein-funding-deals/)
+- [Lucid Trading Deal History](https://propfirmdiscounts.github.io/lucid-trading-deals/)
+- [Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) (Live)
+- [Phoenix Trader Funding Deal History](https://propfirmdiscounts.github.io/phoenix-trader-funding-deals/)
+- [PipFarm Deal History](https://propfirmdiscounts.github.io/pipfarm-deals/)
+- [QT Funded Deal History](https://propfirmdiscounts.github.io/qt-funded-deals/)
+- [QT Futures Deal History](https://propfirmdiscounts.github.io/qt-futures-deals/)
+- [Seacrest Markets Deal History](https://propfirmdiscounts.github.io/seacrest-markets-deals/)
+- [Super Funded Deal History](https://propfirmdiscounts.github.io/super-funded-deals/)
+- [The5ers Deal History](https://propfirmdiscounts.github.io/the5ers-deals/)
+- [thePropTrade Deal History](https://propfirmdiscounts.github.io/the-prop-trade-deals/)
+- [ThinkCapital Deal History](https://propfirmdiscounts.github.io/thinkcapital-deals/)
+- [Top One Futures Deal History](https://propfirmdiscounts.github.io/top-one-futures-deals/)
+- [Trade The Pool Deal History](https://propfirmdiscounts.github.io/trade-the-pool-deals/)
+- [TX3 Funding Deal History](https://propfirmdiscounts.github.io/tx3-funding-deals/)
+- [Upcomers Deal History](https://propfirmdiscounts.github.io/upcomers-deals/)
+- [WeMasterTrade Deal History](https://propfirmdiscounts.github.io/wemastertrade-deals/)
 
 ### All Tracked Prop Trading Firms
 The following repositories contain dedicated deal ledgers, historical markdown files, and dataset snapshots for each individual prop firm:
 
-| Prop Firm | Prop Firm | Prop Firm | Prop Firm |
-|---|---|---|---|
-| [Alpha Futures](https://github.com/propfirmdiscounts/alpha-futures-deals) | [E8 Markets](https://propfirmdiscounts.github.io/e8-funding-deals/) | [FundedSeat](https://github.com/propfirmdiscounts/fundedseat-deals) | [QT Futures](https://github.com/propfirmdiscounts/qt-futures-deals) |
-| [AquaFunded](https://propfirmdiscounts.github.io/aquafunded-deals/) | [Earn2Trade](https://github.com/propfirmdiscounts/earn2trade-deals) | [Fundex](https://github.com/propfirmdiscounts/fundex-deals) | [Seacrest Markets](https://github.com/propfirmdiscounts/seacrest-markets-deals) |
-| [Atlas Funded](https://github.com/propfirmdiscounts/atlas-funded-deals) | [Equity Edge](https://github.com/propfirmdiscounts/equity-edge-deals) | [Funding Traders](https://github.com/propfirmdiscounts/fundingtraders-deals) | [Super Funded](https://github.com/propfirmdiscounts/super-funded-deals) |
-| [Blue Guardian](https://github.com/propfirmdiscounts/blue-guardian-deals) | [Finotive Funding](https://github.com/propfirmdiscounts/finotive-funding-deals) | [Funding Your Trades](https://github.com/propfirmdiscounts/funding-your-trades-deals) | [The5ers](https://github.com/propfirmdiscounts/the5ers-deals) |
-| [Blue Guardian Futures](https://github.com/propfirmdiscounts/blue-guardian-futures-deals) | [Finotive Futures](https://github.com/propfirmdiscounts/finotive-futures-deals) | [FXIFY](https://github.com/propfirmdiscounts/fxify-deals) | [thePropTrade](https://github.com/propfirmdiscounts/the-prop-trade-deals) |
-| [Breakout Prop](https://github.com/propfirmdiscounts/breakout-prop-deals) | [For Traders](https://github.com/propfirmdiscounts/fortraders-deals) | [Goat Funded Trader](https://github.com/propfirmdiscounts/goat-funded-trader-deals) | [ThinkCapital](https://github.com/propfirmdiscounts/thinkcapital-deals) |
-| [Bulenox](https://github.com/propfirmdiscounts/bulenox-deals) | [Forex Funds Flow](https://github.com/propfirmdiscounts/forex-funds-flow-deals) | [HyroTrader](https://github.com/propfirmdiscounts/hyrotrader-deals) | [Top One Futures](https://github.com/propfirmdiscounts/top-one-futures-deals) |
-| [BullRush Prop](https://github.com/propfirmdiscounts/bullrush-deals) | [Forexive](https://github.com/propfirmdiscounts/forexive-deals) | [Instant Funding](https://github.com/propfirmdiscounts/instant-funding-deals) | [Trade The Pool](https://github.com/propfirmdiscounts/trade-the-pool-deals) |
-| [Bullwaves Prime](https://github.com/propfirmdiscounts/bullwaves-deals) | [Funded Elite](https://github.com/propfirmdiscounts/funded-elite-deals) | [Klein Funding](https://github.com/propfirmdiscounts/klein-funding-deals) | [TX3 Funding](https://github.com/propfirmdiscounts/tx3-funding-deals) |
-| [CK PropFirm](https://github.com/propfirmdiscounts/ckcapital-deals) | [Funded Hero](https://github.com/propfirmdiscounts/funded-hero-deals) | [Lucid Trading](https://github.com/propfirmdiscounts/lucid-trading-deals) | [Upcomers](https://github.com/propfirmdiscounts/upcomers-deals) |
-| [Crypto Fund Trader](https://github.com/propfirmdiscounts/crypto-fund-trader-deals) | [Funded Hero Futures](https://github.com/propfirmdiscounts/funded-hero-futures-deals) | [Phidias Propfirm](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) | [WeMasterTrade](https://github.com/propfirmdiscounts/wemastertrade-deals) |
-| [Direct Funded Trader](https://github.com/propfirmdiscounts/direct-funded-trader-deals) | [Funded Trading Plus](https://github.com/propfirmdiscounts/funded-trading-plus-deals) | [Phoenix Trader Funding](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals) |  |
-| [Doji Funding](https://github.com/propfirmdiscounts/doji-funding-deals) | [FundedNext](https://github.com/propfirmdiscounts/fundednext-deals) | [PipFarm](https://github.com/propfirmdiscounts/pipfarm-deals) |  |
-| [Dominion Funding](https://github.com/propfirmdiscounts/dominion-funding-deals) | [FundedNext Futures](https://github.com/propfirmdiscounts/fundednext-futures-deals) | [QT Funded](https://github.com/propfirmdiscounts/qt-funded-deals) |  |
+| Prop Firm | Prop Firm | Prop Firm | Prop Firm | Prop Firm |
+|---|---|---|---|---|
+| [Alpha Futures](https://github.com/propfirmdiscounts/alpha-futures-deals) | [Direct Funded Trader](https://github.com/propfirmdiscounts/direct-funded-trader-deals) | [Funded Elite](https://github.com/propfirmdiscounts/funded-elite-deals) | [Goat Funded Trader](https://github.com/propfirmdiscounts/goat-funded-trader-deals) | [Super Funded](https://github.com/propfirmdiscounts/super-funded-deals) |
+| [AquaFunded](https://propfirmdiscounts.github.io/aquafunded-deals/) | [Doji Funding](https://github.com/propfirmdiscounts/doji-funding-deals) | [Funded Hero](https://github.com/propfirmdiscounts/funded-hero-deals) | [HyroTrader](https://github.com/propfirmdiscounts/hyrotrader-deals) | [The5ers](https://github.com/propfirmdiscounts/the5ers-deals) |
+| [Atlas Funded](https://github.com/propfirmdiscounts/atlas-funded-deals) | [Dominion Funding](https://github.com/propfirmdiscounts/dominion-funding-deals) | [Funded Hero Futures](https://github.com/propfirmdiscounts/funded-hero-futures-deals) | [Instant Funding](https://github.com/propfirmdiscounts/instant-funding-deals) | [thePropTrade](https://github.com/propfirmdiscounts/the-prop-trade-deals) |
+| [Blue Guardian](https://github.com/propfirmdiscounts/blue-guardian-deals) | [E8 Markets](https://propfirmdiscounts.github.io/e8-funding-deals/) | [Funded Trading Plus](https://github.com/propfirmdiscounts/funded-trading-plus-deals) | [Klein Funding](https://github.com/propfirmdiscounts/klein-funding-deals) | [ThinkCapital](https://github.com/propfirmdiscounts/thinkcapital-deals) |
+| [Blue Guardian Futures](https://github.com/propfirmdiscounts/blue-guardian-futures-deals) | [Earn2Trade](https://github.com/propfirmdiscounts/earn2trade-deals) | [FundedNext](https://github.com/propfirmdiscounts/fundednext-deals) | [Lucid Trading](https://github.com/propfirmdiscounts/lucid-trading-deals) | [Top One Futures](https://github.com/propfirmdiscounts/top-one-futures-deals) |
+| [Breakout Prop](https://github.com/propfirmdiscounts/breakout-prop-deals) | [Equity Edge](https://github.com/propfirmdiscounts/equity-edge-deals) | [FundedNext Futures](https://github.com/propfirmdiscounts/fundednext-futures-deals) | [Phidias Propfirm](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) | [Trade The Pool](https://github.com/propfirmdiscounts/trade-the-pool-deals) |
+| [Bulenox](https://github.com/propfirmdiscounts/bulenox-deals) | [Finotive Funding](https://github.com/propfirmdiscounts/finotive-funding-deals) | [FundedSeat](https://github.com/propfirmdiscounts/fundedseat-deals) | [Phoenix Trader Funding](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals) | [TX3 Funding](https://github.com/propfirmdiscounts/tx3-funding-deals) |
+| [BullRush Prop](https://github.com/propfirmdiscounts/bullrush-deals) | [Finotive Futures](https://github.com/propfirmdiscounts/finotive-futures-deals) | [Fundex](https://github.com/propfirmdiscounts/fundex-deals) | [PipFarm](https://github.com/propfirmdiscounts/pipfarm-deals) | [Upcomers](https://github.com/propfirmdiscounts/upcomers-deals) |
+| [Bullwaves Prime](https://github.com/propfirmdiscounts/bullwaves-deals) | [For Traders](https://github.com/propfirmdiscounts/fortraders-deals) | [Funding Traders](https://github.com/propfirmdiscounts/fundingtraders-deals) | [QT Funded](https://github.com/propfirmdiscounts/qt-funded-deals) | [WeMasterTrade](https://github.com/propfirmdiscounts/wemastertrade-deals) |
+| [CK PropFirm](https://github.com/propfirmdiscounts/ckcapital-deals) | [Forex Funds Flow](https://github.com/propfirmdiscounts/forex-funds-flow-deals) | [Funding Your Trades](https://github.com/propfirmdiscounts/funding-your-trades-deals) | [QT Futures](https://github.com/propfirmdiscounts/qt-futures-deals) |  |
+| [Crypto Fund Trader](https://github.com/propfirmdiscounts/crypto-fund-trader-deals) | [Forexive](https://github.com/propfirmdiscounts/forexive-deals) | [FXIFY](https://github.com/propfirmdiscounts/fxify-deals) | [Seacrest Markets](https://github.com/propfirmdiscounts/seacrest-markets-deals) |  |
 
 ---
 
@@ -69,14 +118,11 @@ The following repositories contain dedicated deal ledgers, historical markdown f
 
 Dedicated repositories tracking promotional campaigns, holiday sales, and flash events across all firms:
 
-| Event Promotions | Event Promotions |
-|---|---|
-| [Black Friday Deals](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals) | [Independence Day Deals](https://github.com/propfirmdiscounts/independence-day-prop-firm-deals) |
-| [Christmas Deals](https://github.com/propfirmdiscounts/christmas-prop-firm-deals) | [New Year's Eve Deals](https://github.com/propfirmdiscounts/new-years-eve-prop-firm-deals) |
-| [Cyber Monday Deals](https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals) | [St. Patrick's Day Deals](https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals) |
-| [Easter Deals](https://github.com/propfirmdiscounts/easter-prop-firm-deals) | [Valentine's Day Deals](https://github.com/propfirmdiscounts/valentines-day-prop-firm-deals) |
-| [Eid Al-Fitr Deals](https://github.com/propfirmdiscounts/eid-al-fitr-prop-firm-deals) | [World Cup Deals](https://github.com/propfirmdiscounts/world-cup-prop-firm-deals) |
-| [Halloween Deals](https://github.com/propfirmdiscounts/halloween-prop-firm-deals) |  |
+| Event Deals | Event Deals | Event Deals | Event Deals |
+|---|---|---|---|
+| [Black Friday Deals](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals) | [Easter Deals](https://github.com/propfirmdiscounts/easter-prop-firm-deals) | [Independence Day Deals](https://github.com/propfirmdiscounts/independence-day-prop-firm-deals) | [Valentine's Day Deals](https://github.com/propfirmdiscounts/valentines-day-prop-firm-deals) |
+| [Christmas Deals](https://github.com/propfirmdiscounts/christmas-prop-firm-deals) | [Eid Al-Fitr Deals](https://github.com/propfirmdiscounts/eid-al-fitr-prop-firm-deals) | [New Year's Eve Deals](https://github.com/propfirmdiscounts/new-years-eve-prop-firm-deals) | [World Cup Deals](https://github.com/propfirmdiscounts/world-cup-prop-firm-deals) |
+| [Cyber Monday Deals](https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals) | [Halloween Deals](https://github.com/propfirmdiscounts/halloween-prop-firm-deals) | [St. Patrick's Day Deals](https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals) |  |
 
 ---
 

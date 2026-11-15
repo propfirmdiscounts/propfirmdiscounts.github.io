@@ -97,7 +97,7 @@ jobs:
               ends = r[5]
               link = r[6]
               body.append(f'| {num} | {firm} | {code} | {disc} | {ends} | [{firm} Deals]({link}) |')
-          table_block = header + '\n'.join(body) + '\n'
+          table_block = '\n' + header + '\n'.join(body) + '\n\n'
 
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-exclusive-table \(auto-updated each sync\) -->\n)'

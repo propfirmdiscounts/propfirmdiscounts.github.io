@@ -1,0 +1,6 @@
+title: "PropFirmDiscount — Verified Prop Firm Discount Codes & Deal History"
+description: "Open directory and historical deal ledger for proprietary trading firm discount codes, promotions, and funding challenge archives."
+url: "https://propfirmdiscounts.github.io"
+baseurl: ""
+plugins:
+  - jekyll-seo-tag

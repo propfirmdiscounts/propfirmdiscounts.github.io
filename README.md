@@ -19,7 +19,7 @@ As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with co
 
 | # | Prop Firm | Exclusive Code | Discount | Offer Ends | Live Firm Page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | Lifetime | [Phidias Deals](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
+| 1 | Phidias Propfirm | PFD | 85% | Lifetime | [Phidias Propfirm Deals](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
 | 2 | FundedSeat | PFD | 65% | Lifetime | [FundedSeat Deals](https://propfirmdiscount.com/prop-firm/fundedseat/) |
 | 3 | Funded Hero | PFD | 60% | Lifetime | [Funded Hero Deals](https://propfirmdiscount.com/prop-firm/funded-hero/) |
 | 4 | E8 Markets | CHUN | 50% | Lifetime | [E8 Markets Deals](https://propfirmdiscount.com/prop-firm/e8-funding/) |

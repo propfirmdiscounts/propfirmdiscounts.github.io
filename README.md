@@ -39,9 +39,59 @@ Master Directory:
 - [Full Master Directory (All 50+ Firms)](https://propfirmdiscounts.github.io/prop-firm-discount-codes/) — Live GitHub Pages dataset tracking current codes and deals across all proprietary trading firms.
 
 ### Published Firm Pages
-- [AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/) — Verified standing codes, 25%-35% discounts, and complete deal log.
+- [Alpha Futures Deal History](https://propfirmdiscounts.github.io/alpha-futures-deals/) — Verified standing code Tran009503 (15% off), promotional history and challenge deal tracking.
+- [AquaFunded Deal History](https://propfirmdiscounts.github.io/aquafunded-deals/) — Verified standing code PFD, 25%-35% discounts, and complete deal log.
+- [Atlas Funded Deal History](https://propfirmdiscounts.github.io/atlas-funded-deals/) — Verified standing code PFD (50% off), promotional history and challenge deal tracking.
+- [Blue Guardian Deal History](https://propfirmdiscounts.github.io/blue-guardian-deals/) — Verified standing code PFD (25% off), promotional history and challenge deal tracking.
+- [Blue Guardian Futures Deal History](https://propfirmdiscounts.github.io/blue-guardian-futures-deals/) — Verified standing code PFD (35% off), promotional history and challenge deal tracking.
+- [Breakout Prop Deal History](https://propfirmdiscounts.github.io/breakout-prop-deals/) — Verified standing code 3GVKFT (5% off), promotional history and challenge deal tracking.
+- [Bulenox Deal History](https://propfirmdiscounts.github.io/bulenox-deals/) — Verified standing code PFD (91% off), promotional history and challenge deal tracking.
+- [BullRush Prop Deal History](https://propfirmdiscounts.github.io/bullrush-deals/) — Verified standing code 7XTG8N (5% off), promotional history and challenge deal tracking.
+- [Bullwaves Prime Deal History](https://propfirmdiscounts.github.io/bullwaves-deals/) — Verified standing code PFD (10% off), promotional history and challenge deal tracking.
+- [CK PropFirm Deal History](https://propfirmdiscounts.github.io/ckcapital-deals/) — Verified standing code PFD (10% off), promotional history and challenge deal tracking.
+- [Crypto Fund Trader Deal History](https://propfirmdiscounts.github.io/crypto-fund-trader-deals/) — Verified standing code platinum5 (5% off), promotional history and challenge deal tracking.
+- [Direct Funded Trader Deal History](https://propfirmdiscounts.github.io/direct-funded-trader-deals/) — Verified standing code PFD (40% off), promotional history and challenge deal tracking.
+- [Doji Funding Deal History](https://propfirmdiscounts.github.io/doji-funding-deals/) — Verified standing code PFD (60% off), promotional history and challenge deal tracking.
+- [Dominion Funding Deal History](https://propfirmdiscounts.github.io/dominion-funding-deals/) — Verified standing code PFD5PC (5% off), promotional history and challenge deal tracking.
 - [E8 Markets Deal History](https://propfirmdiscounts.github.io/e8-funding-deals/) — ELEV8 challenges, standing code CHUN (50% off), and promotional history.
-- [Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) — Exclusive code PFD (85% off) and historical promotional tracking.
+- [Earn2Trade Deal History](https://propfirmdiscounts.github.io/earn2trade-deals/) — Verified standing code PFD (50% off), promotional history and challenge deal tracking.
+- [Equity Edge Deal History](https://propfirmdiscounts.github.io/equity-edge-deals/) — Verified standing code PFD (20% off), promotional history and challenge deal tracking.
+- [Finotive Funding Deal History](https://propfirmdiscounts.github.io/finotive-funding-deals/) — Verified standing code JACKICHUN (25% off), promotional history and challenge deal tracking.
+- [Finotive Futures Deal History](https://propfirmdiscounts.github.io/finotive-futures-deals/) — Verified standing code PFDDEAL (25% off), promotional history and challenge deal tracking.
+- [For Traders Deal History](https://propfirmdiscounts.github.io/fortraders-deals/) — Verified standing code VGYCKXLTY9 (15% off), promotional history and challenge deal tracking.
+- [Forex Funds Flow Deal History](https://propfirmdiscounts.github.io/forex-funds-flow-deals/) — Verified standing code PFD (10% off), promotional history and challenge deal tracking.
+- [Forexive Deal History](https://propfirmdiscounts.github.io/forexive-deals/) — Verified standing code WHCTXQHRIG (10% off), promotional history and challenge deal tracking.
+- [Funded Elite Deal History](https://propfirmdiscounts.github.io/funded-elite-deals/) — Verified standing code AFF1864062 (10% off), promotional history and challenge deal tracking.
+- [Funded Hero Deal History](https://propfirmdiscounts.github.io/funded-hero-deals/) — Verified standing code PFD (70% off), promotional history and challenge deal tracking.
+- [Funded Hero Futures Deal History](https://propfirmdiscounts.github.io/funded-hero-futures-deals/) — Verified standing code PFD (65% off), promotional history and challenge deal tracking.
+- [Funded Trading Plus Deal History](https://propfirmdiscounts.github.io/funded-trading-plus-deals/) — Verified standing code PFD (10% off), promotional history and challenge deal tracking.
+- [FundedNext Deal History](https://propfirmdiscounts.github.io/fundednext-deals/) — Verified standing code PFDC (20% off), promotional history and challenge deal tracking.
+- [FundedNext Futures Deal History](https://propfirmdiscounts.github.io/fundednext-futures-deals/) — Verified standing code PFDC (20% off), promotional history and challenge deal tracking.
+- [FundedSeat Deal History](https://propfirmdiscounts.github.io/fundedseat-deals/) — Verified standing code PFD (50% off), promotional history and challenge deal tracking.
+- [Fundex Deal History](https://propfirmdiscounts.github.io/fundex-deals/) — Verified standing code PFD (5% off), promotional history and challenge deal tracking.
+- [Funding Traders Deal History](https://propfirmdiscounts.github.io/fundingtraders-deals/) — Verified standing code PFD (70% off), promotional history and challenge deal tracking.
+- [Funding Your Trades Deal History](https://propfirmdiscounts.github.io/funding-your-trades-deals/) — Verified standing code PFD (2% off), promotional history and challenge deal tracking.
+- [FXIFY Deal History](https://propfirmdiscounts.github.io/fxify-deals/) — Verified standing code FXIFY2WRIVW (10% off), promotional history and challenge deal tracking.
+- [Goat Funded Trader Deal History](https://propfirmdiscounts.github.io/goat-funded-trader-deals/) — Verified standing code CSV (35% off), promotional history and challenge deal tracking.
+- [HyroTrader Deal History](https://propfirmdiscounts.github.io/hyrotrader-deals/) — Verified standing code PFD (5% off), promotional history and challenge deal tracking.
+- [Instant Funding Deal History](https://propfirmdiscounts.github.io/instant-funding-deals/) — Verified standing code AFFVOYAGE61 (10% off), promotional history and challenge deal tracking.
+- [Klein Funding Deal History](https://propfirmdiscounts.github.io/klein-funding-deals/) — Verified standing code PFD (30% off), promotional history and challenge deal tracking.
+- [Lucid Trading Deal History](https://propfirmdiscounts.github.io/lucid-trading-deals/) — Verified standing code PFD (30% off), promotional history and challenge deal tracking.
+- [Phidias Propfirm Deal History](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) — Exclusive code PFD (90% off) and historical promotional tracking.
+- [Phoenix Trader Funding Deal History](https://propfirmdiscounts.github.io/phoenix-trader-funding-deals/) — Verified standing code PFD (20% off), promotional history and challenge deal tracking.
+- [PipFarm Deal History](https://propfirmdiscounts.github.io/pipfarm-deals/) — Verified standing code PFDC (30% off), promotional history and challenge deal tracking.
+- [QT Funded Deal History](https://propfirmdiscounts.github.io/qt-funded-deals/) — Verified standing code PFD (50% off), promotional history and challenge deal tracking.
+- [QT Futures Deal History](https://propfirmdiscounts.github.io/qt-futures-deals/) — Verified standing code PFD (50% off), promotional history and challenge deal tracking.
+- [Seacrest Markets Deal History](https://propfirmdiscounts.github.io/seacrest-markets-deals/) — Verified standing code jackichun (5% off), promotional history and challenge deal tracking.
+- [Super Funded Deal History](https://propfirmdiscounts.github.io/super-funded-deals/) — Verified standing code CHUN (30% off), promotional history and challenge deal tracking.
+- [The5ers Deal History](https://propfirmdiscounts.github.io/the5ers-deals/) — Verified standing code NKY03MTJGM (5% off), promotional history and challenge deal tracking.
+- [thePropTrade Deal History](https://propfirmdiscounts.github.io/the-prop-trade-deals/) — Verified standing code PFD (20% off), promotional history and challenge deal tracking.
+- [ThinkCapital Deal History](https://propfirmdiscounts.github.io/thinkcapital-deals/) — Verified standing code PFD (10% off), promotional history and challenge deal tracking.
+- [Top One Futures Deal History](https://propfirmdiscounts.github.io/top-one-futures-deals/) — Verified standing code PFD (60% off), promotional history and challenge deal tracking.
+- [Trade The Pool Deal History](https://propfirmdiscounts.github.io/trade-the-pool-deals/) — Verified standing code WWS4GW (10% off), promotional history and challenge deal tracking.
+- [TX3 Funding Deal History](https://propfirmdiscounts.github.io/tx3-funding-deals/) — Verified standing code PFDC (25% off), promotional history and challenge deal tracking.
+- [Upcomers Deal History](https://propfirmdiscounts.github.io/upcomers-deals/) — Verified standing code PFD (90% off), promotional history and challenge deal tracking.
+- [WeMasterTrade Deal History](https://propfirmdiscounts.github.io/wemastertrade-deals/) — Verified standing code PFD (20% off), promotional history and challenge deal tracking.
 
 ### All Tracked Prop Trading Firms
 The following repositories contain dedicated deal ledgers, historical markdown files, and dataset snapshots for each individual prop firm:

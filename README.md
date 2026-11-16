@@ -18,16 +18,16 @@ The highest verified prop firm discounts currently include 85% OFF with code PFD
 
 | # | Prop Firm | Exclusive Code | Discount | Code Validity | Firm Page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | No expiry | [Phidias Propfirm Deals](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
-| 2 | FundedSeat | PFD | 65% | No expiry | [FundedSeat Deals](https://propfirmdiscount.com/prop-firm/fundedseat/) |
-| 3 | Funded Hero | PFD | 60% | No expiry | [Funded Hero Deals](https://propfirmdiscount.com/prop-firm/funded-hero/) |
-| 4 | E8 Markets | CHUN | 50% | No expiry | [E8 Markets Deals](https://propfirmdiscount.com/prop-firm/e8-funding/) |
-| 5 | TX3 Funding | PFDC | 50% | No expiry | [TX3 Funding Deals](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
-| 6 | AquaFunded | PFD | 35% | No expiry | [AquaFunded Deals](https://propfirmdiscount.com/prop-firm/aquafunded/) |
-| 7 | Funded Trading Plus | PFD | 20% | No expiry | [Funded Trading Plus Deals](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
-| 8 | FundedNext | PFDC | 20% | No expiry | [FundedNext Deals](https://propfirmdiscount.com/prop-firm/fundednext/) |
-| 9 | Instant Funding | PFD | 20% | No expiry | [Instant Funding Deals](https://propfirmdiscount.com/prop-firm/instant-funding/) |
-| 10 | HyroTrader | PFD | 10% | No expiry | [HyroTrader Deals](https://propfirmdiscount.com/prop-firm/hyrotrader/) |
+| 1 | Phidias Propfirm | PFD | 85% | No expiry | [Phidias Propfirm Deals](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) |
+| 2 | FundedSeat | PFD | 65% | No expiry | [FundedSeat Deals](https://propfirmdiscounts.github.io/fundedseat-deals/) |
+| 3 | Funded Hero | PFD | 60% | No expiry | [Funded Hero Deals](https://propfirmdiscounts.github.io/funded-hero-deals/) |
+| 4 | E8 Markets | CHUN | 50% | No expiry | [E8 Markets Deals](https://propfirmdiscounts.github.io/e8-funding-deals/) |
+| 5 | TX3 Funding | PFDC | 50% | No expiry | [TX3 Funding Deals](https://propfirmdiscounts.github.io/tx3-funding-deals/) |
+| 6 | AquaFunded | PFD | 35% | No expiry | [AquaFunded Deals](https://propfirmdiscounts.github.io/aquafunded-deals/) |
+| 7 | Funded Trading Plus | PFD | 20% | No expiry | [Funded Trading Plus Deals](https://propfirmdiscounts.github.io/funded-trading-plus-deals/) |
+| 8 | FundedNext | PFDC | 20% | No expiry | [FundedNext Deals](https://propfirmdiscounts.github.io/fundednext-deals/) |
+| 9 | Instant Funding | PFD | 20% | No expiry | [Instant Funding Deals](https://propfirmdiscounts.github.io/instant-funding-deals/) |
+| 10 | HyroTrader | PFD | 10% | No expiry | [HyroTrader Deals](https://propfirmdiscounts.github.io/hyrotrader-deals/) |
 
 <!-- /pfd-exclusive-table -->
 
@@ -38,7 +38,7 @@ The highest verified prop firm discounts currently include 85% OFF with code PFD
 Master Directory:
 - [Full Master Directory (All 50+ Firms)](https://propfirmdiscounts.github.io/prop-firm-discount-codes/) — Live GitHub Pages dataset tracking current codes and deals across all proprietary trading firms.
 
-### Published Firm Pages
+### Published Prop Firm Data Pages
 
 Browse dedicated data archives for individual proprietary trading firms. Each firm repository provides its tracked discount code, advertised savings, latest promotional offer, and historical deal records in structured formats for easy reference and data access.
 

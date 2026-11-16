@@ -94,16 +94,17 @@ jobs:
               else:
                   joined = ", ".join(group_strs[:-1]) + f", and {group_strs[-1]}"
 
-              line = f"The highest verified prop firm discounts currently include {joined}. Explore the top 10 tracked discount codes, ranked by available discount percentage."
+              first_sentence = f"The highest verified prop firm discounts currently include {joined}."
+              full_text = f"{first_sentence} Explore the top 10 tracked discount codes, ranked by available discount percentage."
 
               md = open('README.md', encoding='utf-8').read()
               md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n)[^\n]+',
-                          lambda _: line, md, count=1)
+                          lambda _: full_text, md, count=1)
               open('README.md', 'w', encoding='utf-8').write(md)
 
               try:
                   cfg = open('_config.yml', encoding='utf-8').read()
-                  escaped_desc = line.replace('"', '\\"')
+                  escaped_desc = first_sentence.replace('"', '\\"')
                   cfg = re.sub(r'(?<=description: ")[^"\n]+',
                                lambda _: escaped_desc, cfg, count=1)
                   open('_config.yml', 'w', encoding='utf-8').write(cfg)
@@ -121,7 +122,9 @@ jobs:
               disc = r[4]
               ends = 'No expiry'
               link = r[6]
-              body.append(f'| {num} | {firm} | {code} | {disc} | {ends} | [{firm} Deals]({link}) |')
+              m_slug = re.search(r'/prop-firm/([^/]+)/?', link)
+              gh_link = f"https://propfirmdiscounts.github.io/{m_slug.group(1)}-deals/" if m_slug else link
+              body.append(f'| {num} | {firm} | {code} | {disc} | {ends} | [{firm} Deals]({gh_link}) |')
           table_block = '\n' + header + '\n'.join(body) + '\n\n'
 
           md = open('README.md', encoding='utf-8').read()

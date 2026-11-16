@@ -5,13 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JRN9LT8NNF"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JRN9LT8NNF');
+    </script>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="https://propfirmdiscounts.github.io/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://propfirmdiscounts.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://propfirmdiscounts.github.io/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://propfirmdiscounts.github.io/apple-touch-icon.png">
+    <link rel="manifest" href="https://propfirmdiscounts.github.io/site.webmanifest">
     {% seo title=false %}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Organization",
       "@id": "https://propfirmdiscounts.github.io/#organization",
-      "name": "PropFirmDiscount",
+      "name": "PropFirmDiscounts",
       "alternateName": "Prop Firm Discount",
       "url": "https://propfirmdiscounts.github.io/",
       "logo": "https://propfirmdiscount.com/propfirmdiscount_logo.png",
@@ -27,7 +42,7 @@
     {
       "@context": "https://schema.org",
       "@type": "DataCatalog",
-      "name": "Prop Firm Discount Codes & Deal History Archive",
+      "name": "Prop Firm Discount Codes Dataset & Deal History Archive",
       "description": "Official Open Data Mirror and historical deal ledger of PropFirmDiscount.com, tracking verified discount codes and challenge promotions across 50+ prop trading firms.",
       "url": "https://propfirmdiscounts.github.io/",
       "sameAs": "https://propfirmdiscount.com/",
@@ -126,26 +141,42 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is PropFirmDiscount?",
+          "name": "What is PropFirmDiscounts?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "PropFirmDiscount.com is an independent directory monitoring discount codes, payout terms, and promotional deals for proprietary trading firms."
+            "text": "PropFirmDiscounts is a public data mirror of PropFirmDiscount.com, providing structured information about proprietary trading firm discount codes, promotional offers, and historical deal records."
           }
         },
         {
           "@type": "Question",
-          "name": "How often is this dataset updated?",
+          "name": "How many prop firms are included in the dataset?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The dataset is updated hourly via automated synchronization pipelines directly connected to the verified observations database."
+            "text": "The dataset currently tracks 53 proprietary trading firms with individual discount code and deal records. The number of tracked firms may change as new firms are added or existing records are updated."
           }
         },
         {
           "@type": "Question",
-          "name": "Can AI agents access this dataset directly?",
+          "name": "How often is the dataset updated?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. AI assistants and automated systems can query the Model Context Protocol (MCP) server directly at https://mcp.propfirmdiscount.com/mcp or read the raw dataset manifests via llms.txt and ai.txt."
+            "text": "The GitHub and Hugging Face mirrors are synchronized hourly with the primary PropFirmDiscount database. Update history can be checked through the repository commit history."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can AI agents access this dataset?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. AI agents can access the dataset through its JSON and Markdown endpoints or connect directly to the PropFirmDiscount MCP server for structured queries about firms, discount codes, deals, and seasonal promotions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use this dataset for research or other applications?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The dataset is published under the Open Data Commons Attribution License (ODC-By 1.0). Users should review the license terms and provide appropriate attribution when using or redistributing the data."
           }
         }
       ]

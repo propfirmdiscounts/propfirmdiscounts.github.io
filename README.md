@@ -1,6 +1,6 @@
-# Prop Firm Discount Codes & Deal History Archive
+# Prop Firm Discount Codes Dataset & Deal History Archive
 
-> **Official Open Data Mirror & Historical Deal Ledger** of [PropFirmDiscount.com](https://propfirmdiscount.com) — Verified prop firm discount codes, promotional deal histories, and trading challenge coupon archives.
+> PropFirmDiscounts is the official public data mirror of PropFirmDiscount.com, providing structured datasets of proprietary trading firm discount codes, promotional offers, and historical deal records. Explore current discount information across 53 tracked firms, browse individual firm and seasonal event archives, or access the data through JSON, Markdown, GitHub, and Hugging Face for research and AI-powered applications.
 
 [![PropFirmDiscount](https://img.shields.io/badge/Dataset-PropFirmDiscount.com-blue)](https://propfirmdiscount.com)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://propfirmdiscounts.github.io)
@@ -12,23 +12,22 @@
 ## Top Verified Prop Firm Discount Codes
 
 <!-- pfd-top-code (auto-updated each sync) -->
-As of November 2026, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
+The highest verified prop firm discounts currently include 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, and 50% OFF with code CHUN at E8 Markets and PFDC at TX3 Funding. Explore the top 10 tracked discount codes, ranked by available discount percentage.
 
 <!-- pfd-exclusive-table (auto-updated each sync) -->
 
-| # | Prop Firm | Exclusive Code | Discount | Offer Ends | Live Firm Page |
+| # | Prop Firm | Exclusive Code | Discount | Code Validity | Firm Page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | Lifetime | [Phidias Propfirm Deals](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
-| 2 | FundedSeat | PFD | 65% | Lifetime | [FundedSeat Deals](https://propfirmdiscount.com/prop-firm/fundedseat/) |
-| 3 | Funded Hero | PFD | 60% | Lifetime | [Funded Hero Deals](https://propfirmdiscount.com/prop-firm/funded-hero/) |
-| 4 | E8 Markets | CHUN | 50% | Lifetime | [E8 Markets Deals](https://propfirmdiscount.com/prop-firm/e8-funding/) |
-| 5 | TX3 Funding | PFDC | 50% | Lifetime | [TX3 Funding Deals](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
-| 6 | AquaFunded | PFD | 35% | Lifetime | [AquaFunded Deals](https://propfirmdiscount.com/prop-firm/aquafunded/) |
-| 7 | Funded Trading Plus | PFD | 20% | Lifetime | [Funded Trading Plus Deals](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
-| 8 | FundedNext | PFDC | 20% | Lifetime | [FundedNext Deals](https://propfirmdiscount.com/prop-firm/fundednext/) |
-| 9 | Instant Funding | PFD | 20% | Lifetime | [Instant Funding Deals](https://propfirmdiscount.com/prop-firm/instant-funding/) |
-| 10 | HyroTrader | PFD | 10% | Lifetime | [HyroTrader Deals](https://propfirmdiscount.com/prop-firm/hyrotrader/) |
-
+| 1 | Phidias Propfirm | PFD | 85% | No expiry | [Phidias Propfirm Deals](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
+| 2 | FundedSeat | PFD | 65% | No expiry | [FundedSeat Deals](https://propfirmdiscount.com/prop-firm/fundedseat/) |
+| 3 | Funded Hero | PFD | 60% | No expiry | [Funded Hero Deals](https://propfirmdiscount.com/prop-firm/funded-hero/) |
+| 4 | E8 Markets | CHUN | 50% | No expiry | [E8 Markets Deals](https://propfirmdiscount.com/prop-firm/e8-funding/) |
+| 5 | TX3 Funding | PFDC | 50% | No expiry | [TX3 Funding Deals](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
+| 6 | AquaFunded | PFD | 35% | No expiry | [AquaFunded Deals](https://propfirmdiscount.com/prop-firm/aquafunded/) |
+| 7 | Funded Trading Plus | PFD | 20% | No expiry | [Funded Trading Plus Deals](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
+| 8 | FundedNext | PFDC | 20% | No expiry | [FundedNext Deals](https://propfirmdiscount.com/prop-firm/fundednext/) |
+| 9 | Instant Funding | PFD | 20% | No expiry | [Instant Funding Deals](https://propfirmdiscount.com/prop-firm/instant-funding/) |
+| 10 | HyroTrader | PFD | 10% | No expiry | [HyroTrader Deals](https://propfirmdiscount.com/prop-firm/hyrotrader/) |
 
 <!-- /pfd-exclusive-table -->
 
@@ -41,7 +40,7 @@ Master Directory:
 
 ### Published Firm Pages
 
-Dedicated repositories tracking verified discount codes, funding challenges, and historical deal ledgers for each prop trading firm:
+Browse dedicated data archives for individual proprietary trading firms. Each firm repository provides its tracked discount code, advertised savings, latest promotional offer, and historical deal records in structured formats for easy reference and data access.
 
 | Prop Firm | Prop Firm | Prop Firm | Prop Firm | Prop Firm |
 |---|---|---|---|---|
@@ -61,7 +60,7 @@ Dedicated repositories tracking verified discount codes, funding challenges, and
 
 ## Seasonal and Holiday Prop Firm Deals
 
-Dedicated repositories tracking promotional campaigns, holiday sales, and flash events across all firms:
+Explore dedicated datasets of seasonal prop firm promotions and holiday discount campaigns, including Black Friday, Halloween, Christmas, Cyber Monday, and other major events. Each event archive organizes historical deals by publication date, participating firms, and available discount information.
 
 | Event Deals | Event Deals | Event Deals | Event Deals |
 |---|---|---|---|
@@ -71,16 +70,54 @@ Dedicated repositories tracking promotional campaigns, holiday sales, and flash 
 
 ---
 
-## Frequently Asked Questions (FAQ)
+## Dataset Structure & Verification Methodology
 
-**What is PropFirmDiscount?**  
-PropFirmDiscount.com is an independent directory monitoring discount codes, payout terms, and promotional deals for proprietary trading firms.
+The PropFirmDiscount dataset is organized around individual proprietary trading firms, their standing discount codes, and their published promotional offers.
 
-**How often is this dataset updated?**  
-The dataset is updated hourly via automated synchronization pipelines directly connected to the verified observations database.
+Each firm record contains structured information, including:
 
-**Can AI agents access this dataset directly?**  
-Yes. AI assistants and automated systems can query the Model Context Protocol (MCP) server directly at `https://mcp.propfirmdiscount.com/mcp` or read the raw dataset manifests via [llms.txt](llms.txt) and [ai.txt](ai.txt).
+- **Prop Firm:** The name of the proprietary trading firm.
+- **Discount Code:** The tracked standing discount code associated with the firm.
+- **Discount:** The percentage discount provided by the tracked code.
+- **Code Validity:** Whether the code is classified as a standing discount code without a published expiry date.
+- **Latest Deal:** The firm's most recently published promotional offer, including its discount, applicable scope, publication date, and expiration information.
+- **Deal History:** The number of recorded promotional offers associated with the firm.
+
+The standing discount rate and the discount advertised in the latest deal are separate data points. They may differ depending on the firm's promotional terms and how its discount code applies.
+
+Campaign promotions may have their own expiration dates, even when the firm's standing discount code has no published expiry date.
+
+### Data Sources & Updates
+
+PropFirmDiscount.com is the primary source of the dataset. Public mirrors on GitHub Pages and Hugging Face distribute the structured records in JSON and Markdown formats.
+
+The PropFirmDiscount team maintains and reviews discount code information and promotional records. Repository commit history provides a public record of mirror updates.
+
+The dataset is intended for informational, research, and programmatic use. Discount availability and promotional terms should always be confirmed with the relevant prop firm before purchase.
+
+---
+
+## Frequently Asked Questions
+
+**What is PropFirmDiscounts?**
+
+PropFirmDiscounts is a public data mirror of PropFirmDiscount.com, providing structured information about proprietary trading firm discount codes, promotional offers, and historical deal records.
+
+**How many prop firms are included in the dataset?**
+
+The dataset currently tracks 53 proprietary trading firms with individual discount code and deal records. The number of tracked firms may change as new firms are added or existing records are updated.
+
+**How often is the dataset updated?**
+
+The GitHub and Hugging Face mirrors are synchronized hourly with the primary PropFirmDiscount database. Update history can be checked through the repository commit history.
+
+**Can AI agents access this dataset?**
+
+Yes. AI agents can access the dataset through its JSON and Markdown endpoints or connect directly to the PropFirmDiscount MCP server for structured queries about firms, discount codes, deals, and seasonal promotions.
+
+**Can I use this dataset for research or other applications?**
+
+The dataset is published under the Open Data Commons Attribution License (ODC-By 1.0). Users should review the license terms and provide appropriate attribution when using or redistributing the data.
 
 ---
 

@@ -78,7 +78,9 @@ jobs:
               else:
                   joined = ', '.join(parts_txt[:-1]) + f", and {parts_txt[-1]}"
               
-              line = f"As of {os.environ['STAMP'][:7]}, the biggest verified prop firm discount codes are {joined}."
+              from datetime import datetime, timezone
+              now_month = datetime.now(timezone.utc).strftime('%B %Y')
+              line = f"As of {now_month}, the biggest verified prop firm discount codes are {joined}."
               
               md = open('README.md', encoding='utf-8').read()
               md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n)[^\n]+',

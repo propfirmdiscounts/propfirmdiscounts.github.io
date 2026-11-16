@@ -29,6 +29,7 @@ The highest verified prop firm discounts currently include 85% OFF with code PFD
 | 9 | Instant Funding | PFD | 20% | No expiry | [Instant Funding Deals](https://propfirmdiscounts.github.io/instant-funding-deals/) |
 | 10 | HyroTrader | PFD | 10% | No expiry | [HyroTrader Deals](https://propfirmdiscounts.github.io/hyrotrader-deals/) |
 
+
 <!-- /pfd-exclusive-table -->
 
 ---

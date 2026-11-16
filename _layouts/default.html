@@ -6,6 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
     {% seo title=false %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "@id": "https://propfirmdiscounts.github.io/#organization",
+      "name": "PropFirmDiscount",
+      "alternateName": "Prop Firm Discount",
+      "url": "https://propfirmdiscounts.github.io/",
+      "logo": "https://propfirmdiscount.com/propfirmdiscount_logo.png",
+      "sameAs": [
+        "https://propfirmdiscount.com/",
+        "https://github.com/propfirmdiscounts",
+        "https://t.me/propfirmdiscount_com",
+        "https://x.com/propfirmpreview"
+      ]
+    }
+    </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>

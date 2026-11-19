@@ -12,18 +12,18 @@
 ## Top Verified Prop Firm Discount Codes
 
 <!-- pfd-top-code (auto-updated each sync) -->
-The highest verified prop firm discounts currently include 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 35% OFF with code PFD at AquaFunded. Explore the top 10 tracked discount codes, ranked by available discount percentage.
+The highest verified prop firm discounts currently include 85% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, 35% OFF with code PFD at AquaFunded, and 30% OFF with code PFD at Blue Guardian. Explore the top 10 tracked discount codes, ranked by available discount percentage.
 
 <!-- pfd-exclusive-table (auto-updated each sync) -->
 
 | # | Prop Firm | Exclusive Code | Discount | Code Validity | Firm Page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 85% | No expiry | [Phidias Propfirm Deals](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) |
-| 2 | FundedSeat | PFD | 65% | No expiry | [FundedSeat Deals](https://propfirmdiscounts.github.io/fundedseat-deals/) |
-| 3 | Funded Hero | PFD | 60% | No expiry | [Funded Hero Deals](https://propfirmdiscounts.github.io/funded-hero-deals/) |
-| 4 | E8 Markets | CHUN | 50% | No expiry | [E8 Markets Deals](https://propfirmdiscounts.github.io/e8-funding-deals/) |
-| 5 | AquaFunded | PFD | 35% | No expiry | [AquaFunded Deals](https://propfirmdiscounts.github.io/aquafunded-deals/) |
-| 6 | Blue Guardian | PFD | 30% | No expiry | [Blue Guardian Deals](https://propfirmdiscounts.github.io/blue-guardian-deals/) |
+| 2 | Funded Hero | PFD | 60% | No expiry | [Funded Hero Deals](https://propfirmdiscounts.github.io/funded-hero-deals/) |
+| 3 | E8 Markets | CHUN | 50% | No expiry | [E8 Markets Deals](https://propfirmdiscounts.github.io/e8-funding-deals/) |
+| 4 | AquaFunded | PFD | 35% | No expiry | [AquaFunded Deals](https://propfirmdiscounts.github.io/aquafunded-deals/) |
+| 5 | Blue Guardian | PFD | 30% | No expiry | [Blue Guardian Deals](https://propfirmdiscounts.github.io/blue-guardian-deals/) |
+| 6 | SabioTrade | PFD | 30% | No expiry | [SabioTrade Deals](https://propfirmdiscounts.github.io/sabiotrade-deals/) |
 | 7 | TX3 Funding | PFD1 | 25% | No expiry | [TX3 Funding Deals](https://propfirmdiscounts.github.io/tx3-funding-deals/) |
 | 8 | Funded Trading Plus | PFD | 20% | No expiry | [Funded Trading Plus Deals](https://propfirmdiscounts.github.io/funded-trading-plus-deals/) |
 | 9 | FundedNext | PFDC | 20% | No expiry | [FundedNext Deals](https://propfirmdiscounts.github.io/fundednext-deals/) |

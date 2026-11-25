@@ -12,13 +12,13 @@
 ## Top Verified Prop Firm Discount Codes
 
 <!-- pfd-top-code (auto-updated each sync) -->
-The highest verified prop firm discounts currently include 85% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 35% OFF with code PFD at AquaFunded and PFD at Blue Guardian. Explore the top 10 tracked discount codes, ranked by available discount percentage.
+The highest verified prop firm discounts currently include 90% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 35% OFF with code PFD at AquaFunded and PFD at Blue Guardian. Explore the top 10 tracked discount codes, ranked by available discount percentage.
 
 <!-- pfd-exclusive-table (auto-updated each sync) -->
 
 | # | Prop Firm | Exclusive Code | Discount | Code Validity | Firm Page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | No expiry | [Phidias Propfirm Deals](Futures) |
+| 1 | Phidias Propfirm | PFD | 90% | No expiry | [Phidias Propfirm Deals](Futures) |
 | 2 | Funded Hero | PFD | 60% | No expiry | [Funded Hero Deals](Forex/CFD) |
 | 3 | E8 Markets | CHUN | 50% | No expiry | [E8 Markets Deals](Forex/CFD + Futures + Crypto) |
 | 4 | AquaFunded | PFD | 35% | No expiry | [AquaFunded Deals](Forex/CFD + Futures) |
